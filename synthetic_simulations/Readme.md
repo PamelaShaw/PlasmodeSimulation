@@ -1,1 +1,1 @@
-Code used to generate the synthetic data results to be added shortly. If you wish to recieve this code in the interim, contact Pamela.A.Shaw@kp.org
+These two files create the simulation results for the synthetic data scenarios, with the scenario in the filename. If you have any questions contact Pamela.A.Shaw@kp.org
